@@ -1,0 +1,2 @@
+# catatan-
+encapsulation dan overlooding
